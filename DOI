@@ -1,0 +1,24 @@
+GPT-ME: Arquitetura de IA com Memória Esferocêntrica Simbólica em Rust
+GPT-ME: Esferocentric Memory Architecture for Explainable Symbolic AI in Rust
+
+Resumo (PT-BR):
+Este repositório contém a submissão científica completa da arquitetura GPT-ME (Esferocentric Memory GPT), uma proposta de modelo simbólico de processamento de linguagem natural baseada na Teoria da Memória Esferocêntrica. Diferentemente de modelos conexionistas como os Transformers, o GPT-ME opera por meio de esferas simbólicas interconectadas que armazenam coordenadas, conexões reforçáveis e histórico local de ativação. A implementação está escrita em Rust, garantindo segurança de memória, perform...
+
+Abstract (EN-US):
+This repository contains the full scientific submission of the GPT-ME architecture (Esferocentric Memory GPT), a symbolic model for natural language processing based on the original theory of Esferocentric Memory. Unlike connectionist models such as Transformers, GPT-ME operates through symbolic spheres interconnected in a 3D memory space, each storing coordinates, reinforcement connections, and local activation history. The architecture is implemented in Rust, providing memory safety, high perform...
+
+Palavras-chave (PT): IA simbólica, memória persistente, explicabilidade, esferas cognitivas, Rust, GPT, linguagem natural, arXiv, IA auditável, arquitetura esferocêntrica
+Keywords (EN): Symbolic AI, persistent memory, explainability, cognitive spheres, Rust, GPT alternative, natural language understanding, arXiv, auditability, esferocentric architecture
+
+Licença / License:
+MIT License (pode ser modificada conforme restrições futuras via spin-off)
+
+Citação sugerida / Recommended citation (BibTeX):
+@misc{gptme2025,
+  author       = {Alexandro de Souza Boldi},
+  title        = {{GPT-ME: Esferocentric Memory Architecture for Explainable Symbolic AI in Rust}},
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.15239512},
+  url          = {https://doi.org/10.5281/zenodo.15239512}
+}

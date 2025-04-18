@@ -1,0 +1,57 @@
+✉️ MODELO DE E-MAIL PARA ENDOSSO NO ARXIV / ARXIV ENDORSEMENT REQUEST EMAIL TEMPLATE
+
+📌 Assunto / Subject:
+[PT] Pedido de Endosso para Submissão Científica ao arXiv — Arquitetura GPT-ME com Memória Esferocêntrica
+[EN] Endorsement Request for arXiv Scientific Submission — GPT-ME Architecture with Esferocentric Memory
+
+---
+
+📄 VERSÃO EM PORTUGUÊS:
+
+Prezado(a) [Nome do Pesquisador(a)],
+
+Meu nome é Alexandro de Souza Boldi, sou autor independente de uma nova proposta de arquitetura de inteligência artificial simbólica denominada GPT-ME (Esferocentric Memory GPT), baseada na Teoria da Memória Esferocêntrica, já registrada sob DOI oficial no Zenodo: https://doi.org/10.5281/zenodo.15239512
+
+O trabalho encontra-se formalizado em artigo LaTeX com documentação completa, estrutura científica rigorosa e fundamentação simbólica original. Desejo realizar a submissão do artigo ao arXiv, mas para isso necessito de um endosso técnico de um autor já verificado na plataforma.
+
+Venho respeitosamente solicitar o seu apoio como endossante, de forma que eu possa vincular minha conta à submissão e garantir a disseminação científica da arquitetura em ambiente acadêmico confiável.
+
+O conteúdo do trabalho, bem como a versão final dos documentos, encontra-se disponível para sua verificação no seguinte pacote completo (com hashes de integridade):
+
+🔗 [GPT-ME_Submissao_arXiv.zip]
+
+Estou totalmente à disposição para responder quaisquer dúvidas técnicas, fornecer documentação complementar, referências ou evidências experimentais.
+
+Agradeço imensamente sua consideração e apoio à difusão científica de novos paradigmas de IA explicável.
+
+Atenciosamente,
+
+Alexandro de Souza Boldi  
+e-mail: alexandro.boldi@hotmail.com  
+DOI: https://doi.org/10.5281/zenodo.15239512  
+
+---
+
+📄 ENGLISH VERSION:
+
+Dear [Researcher's Name],
+
+My name is Alexandro de Souza Boldi. I am an independent author of a new symbolic artificial intelligence architecture called GPT-ME (Esferocentric Memory GPT), based on the Theory of Esferocentric Memory. This architecture is formally registered under DOI: https://doi.org/10.5281/zenodo.15239512
+
+The work is fully documented in LaTeX format with rigorous scientific structure and a novel symbolic foundation. I intend to submit the article to arXiv but require a technical endorsement from a verified author on the platform.
+
+I respectfully request your support as an endorser so that I may link my account to the submission and ensure the scientific dissemination of this architecture in a recognized academic venue.
+
+The full content, including final documentation, is available for your review in the following complete package (with SHA-256 integrity hashes):
+
+🔗 [GPT-ME_Submissao_arXiv.zip]
+
+I remain fully available to answer any technical questions or provide further documentation, references, or experimental evidence.
+
+Thank you in advance for your consideration and for supporting the scientific advancement of explainable symbolic AI paradigms.
+
+Sincerely,
+
+Alexandro de Souza Boldi  
+e-mail: alexandro.boldi@hotmail.com  
+DOI: https://doi.org/10.5281/zenodo.15239512

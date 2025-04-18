@@ -1,0 +1,32 @@
+GPT-ME — Licença Técnica de Uso Controlado v1.0.0
+GPT-ME — Controlled Technical Use License v1.0.0
+
+Data de emissão / Issued on: 2025-04-17
+Autor / Author: Alexandro de Souza Boldi
+DOI Oficial: https://doi.org/10.5281/zenodo.15239512
+
+---
+
+📄 VERSÃO EM PORTUGUÊS:
+
+Esta licença autoriza o uso acadêmico, científico e de demonstração da arquitetura GPT-ME, incluindo seu código-fonte, documentação técnica e modelos simbólicos, exclusivamente para fins de pesquisa, análise ou auditoria, sem fins comerciais diretos ou indiretos, salvo mediante autorização expressa e por escrito do autor original.
+
+A arquitetura GPT-ME, baseada na Teoria da Memória Esferocêntrica, é de autoria de Alexandro de Souza Boldi e encontra-se protegida sob registro de software, DOI oficial no Zenodo (10.5281/zenodo.15239512) e documentação científica reconhecida. Qualquer tentativa de redistribuição comercial, integração em produtos comerciais, licenciamento paralelo ou clonagem conceitual é vedada, sujeita à responsabilização cível e criminal conforme legislação nacional e acordos de propriedade intelectual multilaterais (TRIPS, Convenção de Berna, PCT).
+
+Esta licença é incompatível com sublicenciamento sob termos permissivos genéricos como MIT, Apache ou GPL, salvo autorização contratual futura em instância de spin-off formal.
+
+Atribuição obrigatória:
+“GPT-ME: Arquitetura de IA Simbólica com Memória Esferocêntrica. Desenvolvido por Alexandro de Souza Boldi. DOI: 10.5281/zenodo.15239512”
+
+---
+
+📄 ENGLISH VERSION:
+
+This license grants academic, scientific, and demonstrative use of the GPT-ME architecture — including its symbolic source code, technical documentation, and computational models — strictly for research, non-commercial analysis, or transparent audit purposes. Any commercial use, direct or indirect, is strictly prohibited unless explicitly authorized in writing by the original author.
+
+The GPT-ME architecture, based on the Theory of Esferocentric Memory, is authored by Alexandro de Souza Boldi, protected under official software registration, Zenodo DOI (10.5281/zenodo.15239512), and peer-reviewed scientific documentation. Any attempt to redistribute, commercialize, sublicense, or conceptually replicate the architecture is forbidden and may result in civil and criminal liability under national and international IP laws (TRIPS, Berne Convention, PCT framework).
+
+This license is not compatible with open-source redistribution models such as MIT, Apache, or GPL unless explicitly sublicensed through a formal spin-off agreement.
+
+Required attribution:
+“GPT-ME: Symbolic AI Architecture with Esferocentric Memory. Developed by Alexandro de Souza Boldi. DOI: 10.5281/zenodo.15239512”

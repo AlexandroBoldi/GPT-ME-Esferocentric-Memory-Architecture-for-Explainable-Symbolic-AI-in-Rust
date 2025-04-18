@@ -1,0 +1,9 @@
+[package]
+name = "gpt_me_prototipo"
+version = "0.1.0"
+edition = "2021"
+authors = ["Alexandro Boldi"]
+description = "Protótipo simbólico de IA baseada na Teoria da Memória Esferocêntrica"
+license = "MIT"
+
+[dependencies]
